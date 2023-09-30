@@ -1,0 +1,14 @@
+C:\Users\Akito Yamada\source\repos\POS\POS\POS\bin\Debug\POS.exe.config
+C:\Users\Akito Yamada\source\repos\POS\POS\POS\bin\Debug\POS.exe
+C:\Users\Akito Yamada\source\repos\POS\POS\POS\bin\Debug\POS.pdb
+C:\Users\Akito Yamada\source\repos\POS\POS\POS\bin\Debug\POS.xml
+C:\Users\Akito Yamada\source\repos\POS\POS\POS\obj\Debug\POS System.vbproj.AssemblyReference.cache
+C:\Users\Akito Yamada\source\repos\POS\POS\POS\obj\Debug\POS.frmLogin.resources
+C:\Users\Akito Yamada\source\repos\POS\POS\POS\obj\Debug\POS.Resources.resources
+C:\Users\Akito Yamada\source\repos\POS\POS\POS\obj\Debug\POS System.vbproj.GenerateResource.cache
+C:\Users\Akito Yamada\source\repos\POS\POS\POS\obj\Debug\POS System.vbproj.CoreCompileInputs.cache
+C:\Users\Akito Yamada\source\repos\POS\POS\POS\obj\Debug\POS System.vbproj.CopyComplete
+C:\Users\Akito Yamada\source\repos\POS\POS\POS\obj\Debug\POS.exe
+C:\Users\Akito Yamada\source\repos\POS\POS\POS\obj\Debug\POS.xml
+C:\Users\Akito Yamada\source\repos\POS\POS\POS\obj\Debug\POS.pdb
+C:\Users\Akito Yamada\source\repos\POS\POS\POS\obj\Debug\POS.Order.resources
