@@ -1,4 +1,4 @@
-// Arduino Project 8: Using Passsive Piezo
+// Arduino Project 9: Using Passsive Piezo
 // MJ "Beat it"
 
 int buzzerPin = 8;
